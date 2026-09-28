@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Sharooq Jabeen 👋
 
 ### Data Analyst | SQL | Power BI | Excel | Python
